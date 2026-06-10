@@ -71,6 +71,6 @@ Intern | DAM Internship Project 2025
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/your-profile)
 - [💻 GitHub](https://github.com/your-username)
-- 📧 Email: your.email@example.com
+- 📧 Email: ksainiii44@gmail.com
 
 🎓 Project submitted as part of internship under the theme of "Water Resource Management using AI".
